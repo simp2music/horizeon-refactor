@@ -1,15 +1,8 @@
 # Horizeon Refractor
 
-## Technology Used 
-
-| Technology Used         | Resource URL           | 
-| ------------- |:-------------:| 
-| Git | [https://simp2music.github.io/horizeon-refactor/](https://git-scm.com/)     |    
-
 ## Description 
 
 This project was so that I could take what was learned from the last few days of class and implement different techniques in shortening and making the css file easier to read. 
-
 
 ## Beginning Steps
 First, clone the repository to your local machine:
