@@ -44,7 +44,7 @@ Footer: Creating a footer with copyright information and attributing the website
 
 ## Usage
 
-This one page website brochure can be used for any purpose it may serve. Simply swap out company logo/information you may need for it to match your business requirements.
+This page is is used to offer services that is relevant to search engine optimization, online reputation management, and social media marketing.
 
 ## Author Info
 
