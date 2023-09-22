@@ -33,18 +33,31 @@ Sections and IDs: Defining sections with meaningful IDs (e.g., id="online-reputa
 Footer: Creating a footer with copyright information and attributing the website's creation.
 
 
+
+## Installation
+
+1. Download the zip file to your device
+2. Extract the zip file on ur device
+3. Open files in zip to location needed
+4. Use your IDE to update when needed
+5. Upload to your own repository
+
+## Usage
+
+This one page website brochure can be used for any purpose it may serve. Simply swap out company logo/information you may need for it to match your business requirements.
+
 ## Author Info
 
 ```md
-### Jesse Paek 
+ Jesse Paek 
 
 * [LinkedIn](https://www.linkedin.com/in/jessepaek/)
 * [Github](https://github.com/simp2music)
 ```
 
+## License
 
-
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+© 2023 Simp2Music / Jesse Paek
 
 
 
